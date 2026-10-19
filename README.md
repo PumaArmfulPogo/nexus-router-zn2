@@ -1,2 +1,10 @@
-# nexus-router-zn2
-Nexus Router Zn2 - Modular REST API microservice crafted by @PumaArmfulPogo
+# Nexus Router Zn2
+
+A resilient, lightweight REST API service.
+
+Author: [@PumaArmfulPogo](https://github.com/PumaArmfulPogo)
+
+### Endpoints
+- `GET /api/health` - Service health check
+- `GET /api/items` - Retrieve items collection
+- `POST /api/items` - Create new item record
